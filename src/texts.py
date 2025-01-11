@@ -116,9 +116,10 @@ regions = [
         "districts": [
             {"name": "Urganch shahri", "callback": "urganch"},
             {"name": "Hazorasp", "callback": "hazorasp"},
-            {"name": "Xiva", "callback": "district_xiva"},
-            {"name": "Shovot", "callback": "district_shovot"},
-            {"name": "Bog‘ot", "callback": "district_bogot"},
+            {"name": "Khanka", "callback": "xonqa"},
+            {"name": "Yangibazar", "callback": "yangibozor"},
+            {"name": "Shavat", "callback": "shovot"},
+            {"name": "Khiva", "callback": "xiva"},
         ]
     },
     {
